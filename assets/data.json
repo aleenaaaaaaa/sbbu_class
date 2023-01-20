@@ -1,0 +1,41 @@
+{
+    "studentsInfo":[
+  {
+    "id": 1,
+    "name": "Danish",
+    "fatherName": "Qadeer",
+    "dept": "Physics",
+    "description": "Danish is a very good and hardworking boy."
+  },
+  {
+    "id": 2,
+    "name": "Ali",
+    "fatherName": "Ahmad",
+    "dept": "Zoology",
+    "description": "Ali is very hardworking"
+  },
+  {
+    "id": 3,
+    "name": "Ayan",
+    "fatherName": "iqbal",
+    "dept": "Chemistry",
+    "description": "Ayan is so mischevious"
+  },
+  {
+    "id": 4,
+    "name": "Zeeshan",
+    "fatherName": "Qadeer",
+    "dept": "CS",
+    "description": "Zeeshan is a very quiet person"
+  },
+  {
+    "id": 5,
+    "name": "Safeer",
+    "fatherName": "hassan",
+    "dept": "CS",
+    "description": "Safeer is so irritating"
+  }
+]
+
+    
+}
