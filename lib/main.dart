@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Firebase project',
+      title: 'Firebase project for practices',
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
